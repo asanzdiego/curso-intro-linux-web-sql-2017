@@ -23,12 +23,12 @@
 ## Licencia
 
 - **Copyright:**
-    - Antonio Sarasa Cabezuelo <[antoniosarasa@campusciff.net](mailto:antoniosarasa@campusciff.net)>
+    - [Antonio Sarasa Cabezuelo](mailto:asarasa@gmail.com)
 
 ## Fuente
 
 - Las slides y sus fuentes las podéis encontrar en:
-    - <https://github.com/asanzdiego/curso-intro-linux-web-sql-2016>
+    - <https://github.com/asanzdiego/curso-intro-linux-web-sql-2017>
 
 
 
